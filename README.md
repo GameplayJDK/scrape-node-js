@@ -4,7 +4,9 @@ Temporary web scraper for customer webpage migrations.
 
 ## Installation
 
-Edit `configuration.json` so it suits your needs.
+Create a `configuration.json` file and edit it so it suits your needs.
+
+You can find an example configuration in `example_configuration.json`.
 
 ```bash
 # Install required dependencies
