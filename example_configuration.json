@@ -1,0 +1,5 @@
+{
+  "main": "http://www.example.com/",
+  "limit": -1,
+  "file": "scrape-result.json"
+}

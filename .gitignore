@@ -1,0 +1,14 @@
+# Project
+
+.idea/
+
+# Library
+
+node_modules/
+
+# Content
+
+configuration.json
+
+scrape-result.json
+scarpe-result.txt
